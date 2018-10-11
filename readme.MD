@@ -1,4 +1,4 @@
-Hello Java, Eliza and Git
+Hello Java and Git
 -------------------
 
 requirements
